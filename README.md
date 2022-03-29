@@ -4,7 +4,7 @@
 
 ## I'm electrical engineer based in Costa Rica!
 
-- :mortar_board: Currently working at Intel Corporation.
+- :mortar_board: Currently working at Intel Corporation as a Graphics Hardware Engineer.
 - :basketball: Fun fact: I love basketball, hiphop, R&B, and making playlists.
 
 ### Spotify Playing 🎧 :notes:
@@ -32,8 +32,8 @@
 
 ---
 
-[esp-repo]: https://github.com/SirCharlesV01/esp32_micropython
-[AoC]: https://github.com/SirCharlesV01/Advent-of-Code
 [twitter]: https://twitter.com/carlosvq04
 [instagram]: https://instagram.com/carlosvq04
-[linkedin]: https://www.linkedin.com/in/carlos-vargas-6b41561a1
+[linkedin]: www.linkedin.com/in/crlsvq
+
+
