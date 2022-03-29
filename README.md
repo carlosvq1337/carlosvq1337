@@ -2,10 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlosvq04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=carlosvq04)
 
-## I'm an electrical engineering student from Costa Rica!
+## I'm electrical engineer based in Costa Rica!
 
-- :mortar_board: Fifth year student of Electrical Engineering, UCR.
-- :octopus: I’m currently working on solving all [Advent of Code challenges][AoC]!
+- :mortar_board: Currently working at Intel Corporation.
 - :basketball: Fun fact: I love basketball, hiphop, R&B, and making playlists.
 
 ### Spotify Playing 🎧 :notes:
